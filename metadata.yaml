@@ -1,0 +1,29 @@
+_repo: 500-R-tsel-und-R-tselscherze-f-r-jung-und-altEin-Bringmichraus-f-r-Schul-und-Haus_31281
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frick, Joseph
+    gutenberg_agent_id: '35117'
+    url: http://www.gutenberg.org/2009/agents/35117
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31281'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Puzzles'
+- !lcc 'PT'
+- !lcsh 'Riddles, German'
+- !lcc 'PZ'
+title: '500 Rätsel und Rätselscherze für jung und alt
+
+  Ein Bringmichraus für Schul und Haus'
+url: http://www.gutenberg.org/ebooks/31281
